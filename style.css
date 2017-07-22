@@ -1,0 +1,55 @@
+body {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/20/aa/37/20aa370c02d81912cc4fcaf5df40b109.jpg");
+  background-repeat: repeat;
+  background-position: center;
+  overflow: hidden;
+  text-align: center;
+}
+.content-box {
+  background: rgba(255, 255, 255, 0.9);
+  height: 400px;
+  margin: 0 auto;
+  position: relative;
+  top: 220px;
+  width: 50%;
+  overflow: scroll;
+  
+}
+.content-header {
+  background-image: url("hhttps://cdn.shopify.com/s/files/1/0285/1316/products/EPI-0020-WALP-WP-1_medium.jpg?v=1451371974");
+  background-position: center;
+  background-size: cover;
+  height: 220px;
+  position: absolute;
+  top: -50px;
+}
+h1{
+  background: #838387;
+  color: #FFF;
+  font-family: Georgia, Times, sans-serif;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 40px;
+  margin: 0 auto;
+  padding: 20px;
+  position: relative;
+  text-transform: uppercase;
+  top: 130px;
+  width: 70%;
+}
+
+h3{
+  background: #012114;
+  color: #FFF;
+    font-family: 'Amatic SC', cursive;
+  box-sizing: border-box;
+  width: 90%;
+  margin: 20px auto;
+  padding: 20px 0px;
+  text-align: center;
+  p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  }
+}

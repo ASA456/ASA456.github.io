@@ -52,9 +52,4 @@ h3{
   font-size: 16px;
   font-weight: 300;
   }
-  .image{
-  background-position: center;
-  background-size: cover;
-  height: 220px;
-  position: absolute;
-  top: -50px;
+
